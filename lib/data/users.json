@@ -1,0 +1,19 @@
+
+[
+  {
+    "id": "user_1769337169981",
+    "username": "gollclock",
+    "password": "dhakool123",
+    "avatarUrl": "https://api.dicebear.com/9.x/initials/svg?seed=Liam",
+    "role": "admin",
+    "isBanned": false
+  },
+  {
+    "id": "user_1769339399295",
+    "username": "qwertytest",
+    "password": "qwertyuiop",
+    "avatarUrl": "https://api.dicebear.com/9.x/initials/svg?seed=tester",
+    "role": "user",
+    "isBanned": false
+  }
+]

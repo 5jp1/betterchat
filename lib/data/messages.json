@@ -1,0 +1,22 @@
+{
+  "room_general": [
+    {
+      "id": "msg_1769344038972",
+      "chatId": "room_general",
+      "userId": "user_1769337169981",
+      "content": "test",
+      "timestamp": 1769344038972,
+      "type": "text"
+    }
+  ],
+  "dm_user_1769337169981_user_1769339399295": [
+    {
+      "id": "msg_1769343168912",
+      "chatId": "dm_user_1769337169981_user_1769339399295",
+      "userId": "user_1769339399295",
+      "content": "yo golly",
+      "timestamp": 1769343168912,
+      "type": "text"
+    }
+  ]
+}
