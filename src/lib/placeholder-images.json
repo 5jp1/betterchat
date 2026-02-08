@@ -1,0 +1,16 @@
+{
+  "placeholderImages": [
+    {
+      "id": "user3-avatar",
+      "description": "Avatar for Charlie",
+      "imageUrl": "https://images.unsplash.com/photo-1568602471122-7832951cc4c5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxtYW4lMjBwb3J0cmFpdHxlbnwwfHx8fDE3NjkyMjQ4NjZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "man portrait"
+    },
+    {
+      "id": "room-general-icon",
+      "description": "Icon for General room",
+      "imageUrl": "https://images.unsplash.com/photo-1558591710-4b4a1ae0f04d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxhYnN0cmFjdCUyMHBhdHRlcm58ZW58MHx8fHwxNzY5MzAwMDkwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "abstract pattern"
+    }
+  ]
+}

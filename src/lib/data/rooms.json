@@ -1,0 +1,13 @@
+[
+  {
+    "id": "room_general",
+    "name": "general",
+    "iconUrl": "https://api.dicebear.com/9.x/initials/svg?seed=general",
+    "channels": [
+      {
+        "id": "general-chat",
+        "name": "general-chat"
+      }
+    ]
+  }
+]

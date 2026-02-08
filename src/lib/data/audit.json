@@ -1,0 +1,208 @@
+[
+  {
+    "id": "log_1770540978225",
+    "timestamp": 1770540978225,
+    "adminId": "user_1769337169981",
+    "adminUsername": "gollclock",
+    "action": "System Enabled",
+    "details": {
+      "message": ""
+    }
+  },
+  {
+    "id": "log_1769442203809",
+    "timestamp": 1769442203809,
+    "adminId": "user_1769337169981",
+    "adminUsername": "gollclock",
+    "action": "System Shutdown",
+    "details": {
+      "message": "what"
+    }
+  },
+  {
+    "id": "log_1769442201040",
+    "timestamp": 1769442201040,
+    "adminId": "user_1769337169981",
+    "adminUsername": "gollclock",
+    "action": "System Shutdown",
+    "details": {
+      "message": "what"
+    }
+  },
+  {
+    "id": "log_1769442176412",
+    "timestamp": 1769442176412,
+    "adminId": "user_1769337169981",
+    "adminUsername": "gollclock",
+    "action": "Sent Announcement",
+    "details": {
+      "message": "test"
+    }
+  },
+  {
+    "id": "log_1769441326170",
+    "timestamp": 1769441326170,
+    "adminId": "user_1769337169981",
+    "adminUsername": "gollclock",
+    "action": "Sent Announcement",
+    "details": {
+      "message": "test"
+    }
+  },
+  {
+    "id": "log_1769362442030",
+    "timestamp": 1769362442030,
+    "adminId": "user_1769337169981",
+    "adminUsername": "gollclock",
+    "action": "System Enabled",
+    "details": {
+      "message": ""
+    }
+  },
+  {
+    "id": "log_1769362251256",
+    "timestamp": 1769362251256,
+    "adminId": "user_1769337169981",
+    "adminUsername": "gollclock",
+    "action": "Deleted Room",
+    "details": {
+      "roomId": "room_bt_1769362238440",
+      "roomName": "bt"
+    }
+  },
+  {
+    "id": "log_1769359005045",
+    "timestamp": 1769359005045,
+    "adminId": "user_1769337169981",
+    "adminUsername": "gollclock",
+    "action": "Set User Role",
+    "details": {
+      "targetUserId": "user_1769351773190",
+      "targetUsername": "Testter",
+      "role": "admin"
+    }
+  },
+  {
+    "id": "log_1769358974826",
+    "timestamp": 1769358974826,
+    "adminId": "user_1769337169981",
+    "adminUsername": "gollclock",
+    "action": "System Shutdown",
+    "details": {
+      "message": "Website is not fully released yet"
+    }
+  },
+  {
+    "id": "log_1769358947626",
+    "timestamp": 1769358947626,
+    "adminId": "user_1769337169981",
+    "adminUsername": "gollclock",
+    "action": "System Shutdown",
+    "details": {
+      "message": "67 is stuffed"
+    }
+  },
+  {
+    "id": "log_1769358941382",
+    "timestamp": 1769358941382,
+    "adminId": "user_1769337169981",
+    "adminUsername": "gollclock",
+    "action": "System Shutdown",
+    "details": {
+      "message": ""
+    }
+  },
+  {
+    "id": "log_1769358927344",
+    "timestamp": 1769358927344,
+    "adminId": "user_1769337169981",
+    "adminUsername": "gollclock",
+    "action": "Sent Announcement",
+    "details": {
+      "message": "test"
+    }
+  },
+  {
+    "id": "log_1769352275358",
+    "timestamp": 1769352275358,
+    "adminId": "user_1769339399295",
+    "adminUsername": "qwertytest",
+    "action": "Impersonated User",
+    "details": {
+      "userId": "user_1769351773190",
+      "username": "Testter"
+    }
+  },
+  {
+    "id": "log_1769352272594",
+    "timestamp": 1769352272594,
+    "adminId": "user_1769339399295",
+    "adminUsername": "qwertytest",
+    "action": "Impersonated User",
+    "details": {
+      "userId": "user_1769351773190",
+      "username": "Testter"
+    }
+  },
+  {
+    "id": "log_1769351900232",
+    "timestamp": 1769351900232,
+    "adminId": "user_1769339399295",
+    "adminUsername": "qwertytest",
+    "action": "Sent Announcement",
+    "details": {
+      "message": "ss"
+    }
+  },
+  {
+    "id": "log_1769351810077",
+    "timestamp": 1769351810077,
+    "adminId": "user_1769339399295",
+    "adminUsername": "qwertytest",
+    "action": "System Enabled",
+    "details": {}
+  },
+  {
+    "id": "log_1769350953176",
+    "timestamp": 1769350953176,
+    "adminId": "user_1769339399295",
+    "adminUsername": "qwertytest",
+    "action": "System Shutdown",
+    "details": {}
+  },
+  {
+    "id": "log_1769350896482",
+    "timestamp": 1769350896482,
+    "adminId": "user_1769337169981",
+    "adminUsername": "gollclock",
+    "action": "Impersonated User",
+    "details": {
+      "userId": "user_1769339399295",
+      "username": "qwertytest"
+    }
+  },
+  {
+    "id": "log_1769350887781",
+    "timestamp": 1769350887781,
+    "adminId": "user_1769337169981",
+    "adminUsername": "gollclock",
+    "action": "Set User Role",
+    "details": {
+      "targetUserId": "user_1769339399295",
+      "targetUsername": "qwertytest",
+      "role": "admin"
+    }
+  },
+  {
+    "id": "log_1769350884631",
+    "timestamp": 1769350884631,
+    "adminId": "user_1769337169981",
+    "adminUsername": "gollclock",
+    "action": "Set User Role",
+    "details": {
+      "targetUserId": "user_1769339399295",
+      "targetUsername": "qwertytest",
+      "role": "user"
+    }
+  }
+]

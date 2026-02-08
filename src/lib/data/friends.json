@@ -1,0 +1,34 @@
+{
+  "user_1769339399295": {
+    "friends": [
+      "user_1769337169981"
+    ],
+    "requests": []
+  },
+  "user_1769337169981": {
+    "friends": [
+      "user_1769339399295"
+    ],
+    "requests": []
+  },
+  "user_1769351043825": {
+    "friends": [],
+    "requests": []
+  },
+  "user_1769351773190": {
+    "friends": [],
+    "requests": [
+      "user_1769337169981"
+    ]
+  },
+  "user_Gemini": {
+    "friends": [],
+    "requests": [
+      "user_1769337169981"
+    ]
+  },
+  "user_1769442108398": {
+    "friends": [],
+    "requests": []
+  }
+}

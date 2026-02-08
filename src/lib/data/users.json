@@ -1,0 +1,49 @@
+[
+  {
+    "id": "user_1769337169981",
+    "username": "gollclock",
+    "password": "dhakool123",
+    "avatarUrl": "http://yt3.googleusercontent.com/r378xEV2fTowgSs1AM_ZCRbmJKa7f9pY_vSykICj3yMtC2DoZE-Jqsz9bFqqZ9HIcee2hzuI-g=s160-c-k-c0x00ffffff-no-rj",
+    "role": "admin",
+    "isBanned": false,
+    "lastSeen": 1770504125975
+  },
+  {
+    "id": "user_Gemini",
+    "username": "Gemini",
+    "password": "",
+    "avatarUrl": "https://toolindex.ai/wp-content/uploads/2024/06/googleGemini-com.webp",
+    "role": "user",
+    "isBanned": false,
+    "createdAt": 1700000000000,
+    "lastSeen": 1700000000000
+  },
+  {
+    "id": "user_1769339399295",
+    "username": "qwertytest",
+    "password": "qwertyuiop",
+    "avatarUrl": "https://api.dicebear.com/9.x/initials/svg?seed=tester",
+    "role": "admin",
+    "isBanned": false
+  },
+  {
+    "id": "user_1769351773190",
+    "username": "Testter",
+    "password": "testter",
+    "avatarUrl": "https://api.dicebear.com/9.x/initials/svg?seed=Testter",
+    "role": "admin",
+    "isBanned": false,
+    "createdAt": 1769351773190,
+    "lastSeen": 1769358865092
+  },
+  {
+    "id": "user_1769442108398",
+    "username": "example",
+    "password": "example",
+    "avatarUrl": "https://api.dicebear.com/9.x/initials/svg?seed=example",
+    "role": "user",
+    "isBanned": false,
+    "createdAt": 1769442108398,
+    "lastSeen": 1769442210461
+  }
+]
